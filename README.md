@@ -22,12 +22,6 @@ An end-to-end **GUI-based Online Banking System** developed in Java using **Swin
 
 ---
 
-## 📸 GUI Preview
-
-> (Add screenshots here if you want)
-
----
-
 ## 🛠️ Technologies Used
 
 | Tech         | Purpose                             |
@@ -100,6 +94,6 @@ Register through GUI or manually add via SQL.
 
 ## 🧑‍💻 Author
 
-Your Name Kavindu Mihiranga
+Built by Kavindu Mihiranga
 
 ---
